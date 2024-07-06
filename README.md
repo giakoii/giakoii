@@ -4,7 +4,7 @@
       
       <h3 align="center">A passionate software developer from Vietnam</h3>
       
-      <div align="center">
+     
         <h3>Connect with me:</h3>
         <h5>Click the icon to go to the link</h5>
         <a href="mailto:giakhoi221203@gmail.com">
@@ -13,7 +13,7 @@
         <a href="https://www.linkedin.com/in/gia-kh%C3%B4i-ph%E1%BA%A1m-8209642a7/">
             <img src="//img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
-      </div>
+ 
      
       <div >
         <My><b>My framework and language</b></h2></br>
