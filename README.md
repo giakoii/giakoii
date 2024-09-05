@@ -5,11 +5,10 @@
 <h3 align="center">A passionate software developer from Vietnam</h3>
 
 <h3>Connect with me:</h3>
-<h5>Click the icon to go to the link</h5>
 <a href="mailto:giakhoi221203@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/gia-kh%C3%B4i-ph%E1%BA%A1m-8209642a7/">
+<a href="www.linkedin.com/in/giakhoii">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
