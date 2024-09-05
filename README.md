@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Vietnam</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU1d2M1M3luYnJvZTY4NW92Y3JpMW1za3MxNnNkZHJxMGU4MDZ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"/>
+<img align="right" alt="gifcode" width=400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU1d2M1M3luYnJvZTY4NW92Y3JpMW1za3MxNnNkZHJxMGU4MDZ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"/>
 
 <h3>Connect with me:</h3>
 <a href="mailto:giakhoi221203@gmail.com">
