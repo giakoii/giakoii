@@ -43,5 +43,5 @@
   </p>
 </div>
 <div>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giakoii&show_icons=true&locale=en&layout=compact" alt="giakoii" /></p>
 </div>
