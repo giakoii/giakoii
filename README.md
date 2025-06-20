@@ -1,47 +1,154 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+everyone%2C+I'm+Gia+Khoii" alt="Typing SVG" />
-</h1>
+# <div align="center">👋 Hello everyone, I'm Gia Khoii</div>
 
-<h3 align="center">A passionate software developer from Vietnam</h3>
-<img align="right" alt="gifcode" width=400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU1d2M1M3luYnJvZTY4NW92Y3JpMW1za3MxNnNkZHJxMGU4MDZ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"/>
-
-<h3>Connect with me:</h3>
-<a href="mailto:giakhoi221203@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="www.linkedin.com/in/giakhoii">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<div>
-  <h3>My framework and language</h3>
-  <p align="left"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
-    <a>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /> 
-    </a>
-        <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a> 
-<!--     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>  -->
-<!--     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> -->
-  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+everyone%2C+I'm+Gia+Khoii;Full+Stack+Developer+from+Vietnam;Passionate+about+Clean+Code;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
-<div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giakoii&show_icons=true&locale=en&layout=compact" alt="giakoii" /></p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU1d2M1M3luYnJvZTY4NW92Y3JpMW1za3MxNnNkZHJxMGU4MDZ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="400" alt="Coding GIF"/>
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+- 💬 Ask me about **Java Spring Boot, C# .NET, React**
+- 📫 How to reach me: **giakhoi.dev@gmail.com**
+- ⚡ Fun fact: **I love containerizing applications and orchestrating them with Kubernetes**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,python,typescript" />
+</div>
+
+### Frameworks & Libraries
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,react,nodejs,express,bootstrap" />
+</div>
+
+### Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="48" height="48" />
+</div>
+
+### DevOps & Cloud
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" />
+</div>
+
+### Development Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,postman,gradle,maven" />
+</div>
+
+---
+
+## 💼 Technical Skills
+
+### 🔤 **Programming Languages**
+```
+C# • Java • JavaScript • TypeScript • VB.NET
+```
+
+### ⚙️ **Frameworks & Technologies**
+```
+ASP.NET Core (MVC, Razor Page, Web API) • Spring Boot • React
+```
+
+### 🗄️ **Databases**
+```
+SQL Server • PostgreSQL • MongoDB • MySQL • Redis
+```
+
+### 🧰 **Development Tools**
+```
+Docker • Kubernetes • Git • Postman • Jira • JasperReports
+```
+
+### ☁️ **DevOps & Cloud**
+```
+Jenkins • Kong Gateway
+```
+
+### 🔐 **Security & Integration**
+```
+JWT Authentication • OpenIddict • Google OAuth • RESTful APIs
+```
+
+### 📦 **Package Managers & Build Tools**
+```
+Maven • Gradle • npm • NuGet • Docker Compose
+```
+
+---
+
+📊 GitHub Statistics
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=giakoii&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakoii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=giakoii&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giakoii&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="mailto:giakhoi221203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/giakhoii">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/giakoii">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=giakoii&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <h3>💭 Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <h3>Thanks for visiting my profile! 😊</h3>
+  <p>⭐ Feel free to star my repositories if you find them interesting!</p>
 </div>
