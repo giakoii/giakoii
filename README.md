@@ -16,8 +16,6 @@
 
 - 💬 Ask me about **Java Spring Boot, C# .NET, React**
 - 📫 How to reach me: **giakhoi.dev@gmail.com**
-- ⚡ Fun fact: **I love containerizing applications and orchestrating them with Kubernetes**
-
 <br clear="right"/>
 
 ---
