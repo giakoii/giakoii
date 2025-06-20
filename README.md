@@ -24,12 +24,12 @@
 
 ### Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,python,typescript" />
+  <img src="https://skillicons.dev/icons?i=cs,java,js,html,css,typescript" />
 </div>
 
 ### Frameworks & Libraries
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,react,nodejs,express,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,react,nodejs,bootstrap,tailwind" />
 </div>
 
 ### Databases
