@@ -1,11 +1,16 @@
-# <div align="center">👋 Hello everyone, I'm Gia Khoii</div>
+# <div align="center">👋 Hello everyone</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+everyone%2C+I'm+Gia+Khoii;Full+Stack+Developer+from+Vietnam;Passionate+about+Clean+Code;Always+Learning+New+Technologies" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU1d2M1M3luYnJvZTY4NW92Y3JpMW1za3MxNnNkZHJxMGU4MDZ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="400" alt="Coding GIF"/>
+  <table>
+    <tr>
+      <td align="left" valign="middle" width="60%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Hello+everyone%2C+My+name+is+Gia+Khoii;I'm+a+Fullstack+Developer;Continuously+Learning+New+Tech;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+      </td>
+      <td align="right" valign="middle" width="40%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU1d2M1M3luYnJvZTY4NW92Y3JpMW1za3MxNnNkZHJxMGU4MDZ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="350" alt="Coding GIF"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -17,6 +22,18 @@
 - 💬 Ask me about **Java Spring Boot, C# .NET, React**
 - 📫 How to reach me: **giakhoi.dev@gmail.com**
 <br clear="right"/>
+
+## 🤝 Connect with Me
+
+<a href="mailto:giakhoi221203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/giakhoii">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/giakoii">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
 ---
 
@@ -114,19 +131,19 @@ Maven • Gradle • npm • NuGet • Docker Compose
 </div>
 
 ---
-
-## 🤝 Connect with Me
-
 <div align="center">
-  <a href="mailto:giakhoi221203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/giakhoii">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/giakoii">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <h3>🔥 Contribution Streak</h3>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giakoii&theme=github_dark" alt="Profile Summary" />
+      </td>
+      <td>
+        <h3>📅 GitHub Contribution Calendar</h3>
+        <img src="https://ghchart.rshah.org/giakoii" alt="GitHub Contribution Chart" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -140,13 +157,6 @@ Maven • Gradle • npm • NuGet • Docker Compose
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 <div align="center">
   <h3>Thanks for visiting my profile! 😊</h3>
-  <p>⭐ Feel free to star my repositories if you find them interesting!</p>
-</div>
+  <p>⭐ Feel free to star my repositories if you find them interesting!</p </div>
